@@ -1,6 +1,6 @@
 # Printable Adult Coloring Pages
 
-This project provides a web page showcasing the benefits of printable adult coloring pages. It includes downloadable links, information on the types of pages available, and how they can help in relieving stress, enhancing creativity, and providing a fun artistic outlet.
+This project provides a web page showcasing the benefits of <a href=https://freecoloringtherapy.com/printable-adult-coloring-pages/>printable adult coloring pages</a>. It includes downloadable links, information on the types of pages available, and how they can help in relieving stress, enhancing creativity, and providing a fun artistic outlet.
 
 ## Features
 
